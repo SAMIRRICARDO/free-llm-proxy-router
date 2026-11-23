@@ -1,0 +1,4 @@
+package/configs/.secrets
+package/.env
+package/.env.*
+!package/.env.example
